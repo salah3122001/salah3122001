@@ -21,13 +21,13 @@
 
 ### 🚀 Projects
 
-- 🛒 [E-Commerce Website (Laravel)](https://github.com/salah3122001/E-Commerce-Laravel-Project)  
+- 🛒 [E-Commerce Website (Laravel)](https://github.com/salah3122001/E-Commerce-Laravel-Project-)  
   Developed e-commerce platform with cart, authentication, and admin dashboard.
 
-- 📝 [Blog System (Laravel)](https://github.com/salah3122001/Blog-Laravel-Project)  
+- 📝 [Blog System (Laravel)](https://github.com/salah3122001/Blog-Laravel-Project-)  
   Created blog with authentication, posts, and comments using **Laravel, MySQL, Bootstrap**.
   
-- ✅ [To-Do App (PHP OOP)](https://github.com/salah3122001/TodoApp)  
+- ✅ [To-Do App (PHP OOP)](https://github.com/salah3122001/To_do_APP-PHP-Project-)  
   Task management app using **PHP (OOP)** and **MySQL**.
 
 
