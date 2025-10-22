@@ -45,11 +45,23 @@
 - 🛒 [E-Commerce Website (Laravel)](https://github.com/salah3122001/E-Commerce-Laravel-Project-)  
   Developed e-commerce platform with cart, authentication, and admin dashboard.
 
+  <p align="center">
+  <img src="https://github.com/salah3122001/E-Commerce-Laravel-Project-/blob/main/screenshots/admin-panel.png?raw=true" width="250" alt="Course Page" />
+  </p>
+
 - 📝 [Blog System (Laravel)](https://github.com/salah3122001/Blog-Laravel-Project-)  
   Created blog with authentication, posts, and comments using **Laravel, MySQL, Bootstrap**.
+
+   <p align="center">
+  <img src="https://github.com/salah3122001/Blog-Laravel-Project-/blob/main/screenshots/posts.png?raw=true" width="250" alt="Course Page" />
+   </p>
   
 - ✅ [To-Do App (PHP OOP)](https://github.com/salah3122001/To_do_APP-PHP-Project-)  
   Task management app using **PHP (OOP)** and **MySQL**.
+
+  <p align="center">
+  <img src="https://github.com/salah3122001/To_do_APP-PHP-Project-/blob/main/assets/todoapp.png?raw=true" width="250" alt="Course Page" />
+   </p>
 
 ---
 
