@@ -32,12 +32,12 @@
   - Includes **payment gateway**, **subscription system**, and **meeting reminders**.  
   
   <p align="center">
-    <img src="screenshots/course.png" width="250" alt="Course Page" />
-    <img src="screenshots/pricing-plan.png" width="250" alt="Pricing Plan" />
-    <img src="screenshots/add-notice.png" width="250" alt="Add Notice" />
-    <img src="screenshots/course-notices.png" width="250" alt="Course Notices" />
-    <img src="screenshots/course-details.png" width="250" alt="Course Details" />
-    <img src="screenshots/meeting-time.png" width="250" alt="Meeting Time Selection" />
+  <img src="https://github.com/salah3122001/Mentors-Arena/blob/main/screenshots/course.png?raw=true" width="250" alt="Course Page" />
+  <img src="https://github.com/salah3122001/Mentors-Arena/blob/main/screenshots/pricing-plan.png?raw=true" width="250" alt="Pricing Plan" />
+  <img src="https://github.com/salah3122001/Mentors-Arena/blob/main/screenshots/add-notice.png?raw=true" width="250" alt="Add Notice" />
+  <img src="https://github.com/salah3122001/Mentors-Arena/blob/main/screenshots/course-notices.png?raw=true" width="250" alt="Course Notices" />
+  <img src="https://github.com/salah3122001/Mentors-Arena/blob/main/screenshots/course-details.png?raw=true" width="250" alt="Course Details" />
+  <img src="https://github.com/salah3122001/Mentors-Arena/blob/main/screenshots/meeting-time.png?raw=true" width="250" alt="Meeting Time Selection" />
   </p>
 
 ---
