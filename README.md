@@ -32,10 +32,10 @@
   - Includes **payment gateway**, **subscription system**, and **meeting reminders**.  
   
   <p align="center">
-    <img src="course.png" width="250" alt="Course Page" />
+    <img src="screenshots/course.png" width="250" alt="Course Page" />
     <img src="screenshots/pricing-plan.png" width="250" alt="Pricing Plan" />
     <img src="screenshots/add-notice.png" width="250" alt="Add Notice" />
-    <img src="screenshots/course-notice.png" width="250" alt="Course Notices" />
+    <img src="screenshots/course-notices.png" width="250" alt="Course Notices" />
     <img src="screenshots/course-details.png" width="250" alt="Course Details" />
     <img src="screenshots/meeting-time.png" width="250" alt="Meeting Time Selection" />
   </p>
