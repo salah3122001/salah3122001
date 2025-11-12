@@ -49,6 +49,14 @@
   <img src="https://github.com/salah3122001/E-Commerce-Laravel-Project-/blob/main/screenshots/admin-panel.png?raw=true" width="250" alt="Course Page" />
   </p>
 
+- 💼 [Freelance Connect Platform (Laravel)](https://github.com/salah3122001/freelance-connect)
+  Developed a full freelance marketplace with authentication, service management, Paymob payment gateway, real-time chat (Pusher), admin dashboard, and RESTful APIs for integration.
+
+  <p align="center">
+    <img src="https://github.com/salah3122001/freelance-connect/blob/main/screenshots/admin-dashboard.png?raw=true" width="250" alt="Admin Dashboard" />
+  </p>
+
+
 - 📝 [Blog System (Laravel)](https://github.com/salah3122001/Blog-Laravel-Project-)  
   Created blog with authentication, posts, and comments using **Laravel, MySQL, Bootstrap**.
 
